@@ -14,6 +14,7 @@ Voice transmission devices have moved on from simple telephone technology, and m
 [Further Development](#further-development)  
 [Documentation and Code](#documentation-and-code)  
 [Resources](#resources)  
+[Bonus Material](#bonus-material)  
 [Contact](#contact)  
 
 <br />
@@ -125,6 +126,12 @@ A more challenging task it to extend the model to deal better with the [voiceban
 * [Praat: doing phonetics by computer](http://www.fon.hum.uva.nl/praat/)
 * [Librosa: Python library for audio and music analysis](https://github.com/librosa/librosa)
 * [pyAudioAnalysis: Python Audio Analysis Library](https://github.com/tyiannak/pyAudioAnalysis)
+
+<br />
+
+## Bonus Material
+
+To see the recreation of the neural network procedure used in this project using the [Orange's](https://orange.biolab.si/) visual programming framework as well as python scripting using the Orange python library head to my [other repository](https://github.com/h1ke/voice_identifier_orange).
 
 <br />
 
