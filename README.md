@@ -99,7 +99,7 @@ Since we are working with only ten examples per category and training and testin
 
 ## Further Development:
 
-Currently, the system does an impressive job. However, it will be desirable to test robustness of the system using recordings from a different set of talkers.
+Currently, the system does an impressive job. It displays a near perfect accuracy using only modest computing resources and can be even embedded in a small single-board computer system like [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi). However, it will be desirable to test robustness of the system using recordings from a different set of talkers.
 
 Another avenue for improvement is to simulate more everyday recording environments by adding noise to the signal and recording remotely via a VoIP enabled software.
 
