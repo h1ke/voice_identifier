@@ -103,7 +103,7 @@ Currently, the system does an impressive job. It displays a near perfect accurac
 
 Another avenue for improvement is to simulate more everyday recording environments by adding noise to the signal and recording remotely via a VoIP enabled software.
 
-A more challenging task it to extend the model to deal better with the [voiceband](https://en.wikipedia.org/wiki/Voice_frequency) signal used in traditional telephone lines. As mentioned earlier, that signal is severely degraded and anything between 300 Hz and 3400 Hz is removed. In fact, voice pitch is absent, as it is below 300 Hz (85 Hz to 180 Hz for adult males, and 165 Hz to 255 Hz for adult females). Humans have a variety of cognitive skills for filling-in the blanks to recognize voices despite the lack of voice pitch, but machine-learning algorithms face a severe poverty of data in this situation. Another level of model sophistication will be needed in order to overcome this challenge.
+A more challenging task it to extend the model to deal better with the [voiceband](https://en.wikipedia.org/wiki/Voice_frequency) signal used in traditional telephone lines. As mentioned earlier, that signal is severely degraded and anything below 300 Hz and above 3400 Hz is removed. In fact, voice pitch is absent, as it is below 300 Hz (85 Hz to 180 Hz for adult males, and 165 Hz to 255 Hz for adult females). Humans have a variety of cognitive skills for filling-in the blanks to recognize voices despite the lack of voice pitch, but machine-learning algorithms face a severe poverty of data in this situation. Another level of model sophistication will be needed in order to overcome this challenge.
 
 <br />
 
